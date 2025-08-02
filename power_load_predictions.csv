@@ -1,0 +1,4 @@
+Predicted_Load_Type,Light_Load_Probability,Maximum_Load_Probability,Medium_Load_Probability,Confidence,Certainty_Level
+Maximum_Load,0.28016760529050627,0.4430093795693172,0.27682301514017654,0.4430093795693172,Low
+Light_Load,0.9,0.02,0.08,0.9,High
+Medium_Load,0.22901797590881778,0.3313931735357773,0.439588850555405,0.439588850555405,Low
